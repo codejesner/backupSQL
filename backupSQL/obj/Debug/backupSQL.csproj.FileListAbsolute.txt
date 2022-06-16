@@ -1,0 +1,8 @@
+C:\backupSQL\backupSQL\bin\Debug\backupSQL.exe.config
+C:\backupSQL\backupSQL\bin\Debug\backupSQL.exe
+C:\backupSQL\backupSQL\bin\Debug\backupSQL.pdb
+C:\backupSQL\backupSQL\obj\Debug\backupSQL.csproj.AssemblyReference.cache
+C:\backupSQL\backupSQL\obj\Debug\backupSQL.csproj.SuggestedBindingRedirects.cache
+C:\backupSQL\backupSQL\obj\Debug\backupSQL.csproj.CoreCompileInputs.cache
+C:\backupSQL\backupSQL\obj\Debug\backupSQL.exe
+C:\backupSQL\backupSQL\obj\Debug\backupSQL.pdb
